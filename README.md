@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # SchoolManagementProject
-=======
+
 # 🏫 Smart School Management System
 
 A comprehensive, multi-role school management ecosystem built with **Flutter** and **Supabase**. This project provides dedicated applications for Admins, Teachers, and Students to streamline educational operations and communication.
@@ -109,7 +108,3 @@ lib/
 - **Responsive:** Optimized for diverse mobile screen sizes.
 - **Premium UI:** Uses modern gradients, smooth transitions, and custom icons.
 - **Data Driven:** Real-time dashboards provide instant insights into school health.
-
----
-*Developed for Educational Excellence & Operational Efficiency.*
->>>>>>> ee36910 (Initial commit)
